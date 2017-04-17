@@ -1,0 +1,137 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: PTB                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   080417 UFN    1234507 PTB2200 AT72/M SBRP2331 N0270 180 W30                                 SBBR0130 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   260317 UFN    1234560 PTB2200 AT72/M SBBR0255 N0260 200 DCT PAPES DCT 1315S05331W DCT       SBSO0210 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBAZ0132 PER/B            
+   270317 UFN    1234560 PTB2201 AT72/M SBSO0625 N0260 190 DCT 1315S05331W DCT PAPES           SBBR0215 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBBS0036 PER/B            
+   270317 UFN    1234560 PTB2201 AT72/M SBBR1010 N0265 190 W30                                 SBRP0135 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234560 PTB2230 AT72/M SBRP1000 N0270 180 W30                                 SBBR0140 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234560 PTB2231 AT72/M SBBR0025 N0265 190 W30                                 SBRP0143 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   080417 UFN    1234567 PTB2232 AT72/M SBBR1630 N0260 190 DCT PANOK W2 OPKIR/N0259F135 VFR    SNBR0129 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           DCT                                          EET/SBRE0055 PER/B RALT/F190  
+                                                                                                        DCT SBSV                      
+   300317 UFN    1234567 PTB2233 AT72/M SNBR1800 N0250 085 DCT 1225S04516W/N0256F180 IFR DCT   SBBR0125 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           OPKIR DCT KORAN DCT                          EET/SBBS0026 PER/B            
+   300317 UFN    1234560 PTB2241 AT72/M SBSV1020 N0270 180 DCT ELEFA DCT OPLOR DCT             SBQV0110 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   170417 UFN    1234560 PTB2242 AT72/M SBSV1328 N0260 180 DCT VATAP DCT 1247S04019W DCT       SNBR0157 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           1238S04119W DCT 1229S04221W DCT              PER/B RALT/F180 DCT SBBR      
+                                                           1225S04246W DCT                              
+                                                           1214S04359W/N0260F145 VFR DCT                
+   200217 UFN    1234560 PTB2242 AT72/M SBQV1145 N0275 190 DCT OBDUD DCT MAPVU DCT SVD DCT     SBSV0110 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234507 PTB2245 AT72/M SNBR1910 N0250 075 DCT 1208S04430W/N0258F190 IFR DCT   SBSV0150 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           1225S04246W DCT 1229S04221W DCT              PER/B                         
+                                                           1238S04119W DCT VATAP DCT                    
+   300317 UFN    1234507 PTB2245 AT72/M SBSV2132 N0270 180 DCT ELEFA DCT OPLOR DCT             SBQV0110 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234507 PTB2246 AT72/M SBQV2305 N0275 190 DCT OBDUD DCT MAPVU DCT SVD DCT     SBSV0110 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   230417 UFN    0000007 PTB2248 AT72/M SBSV1328 N0260 180 DCT VATAP DCT 1247S04019W DCT       SNBR0155 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           1238S04119W DCT 1229S04221W DCT              PER/B RALT/F180 DCT SBBR      
+                                                           1225S04246W DCT                              
+                                                           1214S04359W/N0260F145 VFR DCT                
+   300317 UFN    0000060 PTB2249 AT72/M SNBR1910 N0250 075 DCT 1208S04430W/N0258F190 IFR DCT   SBSV0150 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           1225S04246W DCT 1229S04221W DCT              PER/B                         
+                                                           1238S04119W DCT VATAP DCT                    
+   220417 UFN    0000060 PTB2258 AT72/M SBRP0310 N0270 160 W19                                 SBSR0046 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   140417 UFN    0000060 PTB2258 AT72/M SBGR0200 N0250 140 DCT BGC DCT MUKNU DCT               SBRP0102 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   200217 UFN    1234560 PTB2261 AT72/M SBRP0900 N0265 170 DCT OPRUT DCT MOXEP                 SBGR0115 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0053 PER/B            
+   090417 UFN    1234500 PTB2262 AT72/M SBGR0105 N0250 140 DCT BGC DCT MUKNU DCT               SBRP0102 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234567 PTB2264 AT72/M SBGR1355 N0250 140 DCT BGC DCT MUKNU DCT               SBRP0102 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234567 PTB2265 AT72/M SBQV1515 N0275 190 DCT OBDUD DCT MAPVU DCT SVD DCT     SBSV0115 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234567 PTB2265 AT72/M SBRP1030 N0270 170 DCT OPRUT DCT MOXEP                 SBGR0055 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0053 PER/B            
+   260317 UFN    1234567 PTB2265 AT72/M SBGR1200 N0275 190 DCT UBRIR W45 ANLES DCT MOSTI DCT   SBQV0310 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           1647S04205W DCT VCO                          EET/SBRE0148 PER/B            
+   300317 UFN    1234567 PTB2266 AT72/M SBGR1940 N0250 140 DCT BGC DCT MUKNU DCT               SBRP0100 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234567 PTB2267 AT72/M SBRP1221 N0265 170 DCT OPRUT DCT MOXEP                 SBGR0059 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0053 PER/B            
+   260317 UFN    1234567 PTB2268 AT72/M SBQV1810 N0270 180 DCT 1647S04205W DCT MOSTI W1 MOXEP  SBGR0300 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBBS0036 SBCW0236 PER/B   
+   300317 UFN    1234567 PTB2268 AT72/M SBGR2135 N0250 140 DCT BGC DCT MUKNU DCT               SBRP0105 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   260317 UFN    1234567 PTB2268 AT72/M SBSV1645 N0270 180 DCT ELEFA DCT OPLOR DCT             SBQV0100 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234567 PTB2269 AT72/M SBRP1800 N0265 170 DCT OPRUT DCT MOXEP                 SBGR0105 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0053 PER/B            
+   200217 UFN    1234560 PTB2270 AT72/M SBBH1040 N0270 180 DCT XOMOD DCT PABAV W13 RPR DCT     SBRP0121 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   200217 UFN    1234560 PTB2271 AT72/M SBRP0903 N0275 190 DCT EGBAL W13 KOMBO DCT             SBBH0112 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234507 PTB2278 AT72/M SBBH2255 N0270 180 DCT XOMOD DCT PABAV W13 RPR DCT     SBRP0113 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234507 PTB2279 AT72/M SBRP2120 N0275 190 DCT EGBAL W13 KOMBO DCT             SBBH0105 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   200217 UFN    1234567 PTB2316 AT72/M SBRP1231 N0270 180 W30 ULD W11 GNV DCT                 SBGO0121 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   200217 UFN    1234567 PTB2316 AT72/M SBGO1428 N0275 190 DCT PAJEM W10 BSI G449 PMS DCT      SBPJ0152 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   200217 UFN    1234567 PTB2316 AT72/M SBPJ1645 N0260 190 DCT NOVOI DCT                       SWGN0100 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           0813S04812W/N0258F135 VFR DCT                EET/SBAZ0010 PER/B RALT/F160  
+                                                                                                        DCT SBPJ                      
+   260317 UFN    1234567 PTB2316 AT72/M SBGR1045 N0250 140 DCT BGC DCT MUKNU DCT               SBRP0054 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   200217 UFN    1234567 PTB2317 AT72/M SBGO2147 N0265 190 DCT KETUL W51 RPR DCT               SBRP0118 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   200217 UFN    1234567 PTB2317 AT72/M SBPJ1930 N0270 180 LIBEC DCT 1305S04830W DCT MILIX     SBGO0146 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           DCT GNV                                      PER/B                         
+   200217 UFN    1234567 PTB2317 AT72/M SWGN1805 N0250 065 DCT 0740S04814W/N0226F180 IFR DCT   SBPJ0100 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           NOVOI DCT PMS DCT                            EET/SBBS0050 PER/B            
+   260317 UFN    1234567 PTB2317 AT72/M SBRP2330 N0265 170 DCT OPRUT DCT MOXEP                 SBGR0055 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0054 PER/B            
+   200217 UFN    1234567 PTB2346 AT72/M SBRP0255 N0260 180 DCT NILSU W19 JRP DCT PULOT DCT     SBRD0205 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           1742S05316W/N0262F160 DCT                    EET/SBCW0111 SBAZ0142         
+                                                           1714S05350W/N0261F145 VFR DCT                RALT/F140 DCT SBCY PER/B      
+   200217 UFN    1234567 PTB2347 AT72/M SBRD0600 N0259 075 DCT 1655S05417W/N0257F190 IFR DCT   SBRP0205 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                           1716S05351W DCT PULOT DCT POPTU DCT          EET/SBCW0017 SBBS0050 PER/B   
+   300317 UFN    1234507 PTB2360 AT72/M SBRP2055 N0260 190 W32 UTPIN Z2 TOKIM                  SBRJ0146 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0052 PER/B            
+   270317 UFN    1234507 PTB2360 AT72/M SBCT1846 N0260 190 DCT MORLU DCT ISIBI DCT AAQ DCT     SBRP0115 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBBS0046 PER/B            
+   270317 UFN    1234507 PTB2360 AT72/M SBCA1700 N0260 190 DCT GRU DCT PUNTO                   SBCT0104 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234507 PTB2361 AT72/M SBRJ2257 N0260 180 MUDKA W32                           SBRP0130 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBBS0050 PER/B            
+   050317 UFN    1234560 PTB2361 AT72/M SBRP0257 N0270 160 W19                                 SBSR0046 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   050317 UFN    1234560 PTB2362 AT72/M SBRP0910 N0260 190 W32 UTPIN Z2 TOKIM                  SBRJ0146 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0052 PER/B            
+   080417 UFN    1234560 PTB2363 AT72/M SBRP1307 N0260 180 DCT AAQ DCT ISIBI DCT MORLU         SBCT0120 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0028 PER/B            
+   270317 UFN    1234560 PTB2363 AT72/M SBCT1512 N0260 180 PUNTO DCT 2510S05234W DCT           SBCA0108 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   300317 UFN    1234560 PTB2363 AT72/M SBRJ1111 N0260 180 MUDKA W32                           SBRP0130 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBBS0050 PER/B            
+   080417 UFN    1234500 PTB2364 AT72/M SBRP1500 N0260 190 W32 UTPIN Z2 TOKIM                  SBRJ0146 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBCW0052 PER/B            
+   080417 UFN    1234500 PTB2365 AT72/M SBRJ1700 N0260 180 MUDKA W32                           SBRP0130 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        EET/SBBS0050 PER/B            
+   300317 UFN    0000007 PTB2367 AT72/M SBCT1505 N0260 180 PUNTO DCT 2510S05234W DCT           SBCA0110 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   170417 UFN    1234507 PTB2378 AT72/M SBRP1905 N0270 180 W30                                 SBBR0133 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         
+   080417 UFN    1234507 PTB2379 AT72/M SBBR2111 N0265 190 W30                                 SBRP0148 EQPT/SDFGHRY PBN/B2B3O2O3S1   
+                                                                                                        PER/B                         

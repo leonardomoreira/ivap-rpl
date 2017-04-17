@@ -1,0 +1,16 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: AVA                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   300317 UFN    1234567 AVA0086 A332/H SBGR1130 N0471 380 CGO1A RCL UM417 ASTOB UL201 MABMA UL201 ABIDE UL201 MTU UW89 VVC W44 DANSA W18 GIR W17 ABL ABL3D SKBO0530 EQPT/SDE1E2E3FGHIJ4J5RWXY PBN/A1B1C1D1L1O1S2 EET/SBBS0012 SBAZ0122 SKED0418
+   300317 UFN    1234567 AVA0248 A332/H SBGR0410 N0471 380 CGO1A RCL UM417 ASTOB UL201 MABMA UL201 ABIDE UL201 MTU UW89 VVC W44 DANSA W18 GIR W17 ABL ABL3D SKBO0530 EQPT/SDE1E2E3FGHIJ4J5RWXY PBN/A1B1C1D1L1O1S2 EET/SBBS0012 SBAZ0122 SKED0418
+   170417 UFN    1234567 AVA0260 A319/M SBGL1100 N0459 360 DCT ENSOD UM409 FLAND UZ33 MALMI UZ33 ABIDE UM549 MTU UW89 VVC W44 DANSA W18 GIR W17 ABL ABL3D SKBO0625 EQPT/SDE1E2E3FGHIJ4J5RWXY PBN/A1B1C1D1L1O1S2 EET/SBBS0026 SBAZ0203 SKED0441
+

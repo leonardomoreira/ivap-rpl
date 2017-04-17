@@ -1,0 +1,89 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: PAM                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   181116 UFN    1030560 PAM5912 AT72/M SBIH1439 N0250 190 W12                                 SBHT0104 EQPT/SD RMK/INDIICATIVO DE    
+                                                                                                        CHAMADA MAPI5912              
+   181116 UFN    1030560 PAM5912 AT72/M SBHT1611 N0250 190 W27                                 SBBE0116 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5912              
+   181116 UFN    1030560 PAM5912 AT72/M SBEG1305 N0250 190 W12                                 SBIH0104 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5912              
+   151116 UFN    1030560 PAM5913 AT72/M SBIH2113 N0250 180 W12                                 SBEG0106 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA 5913                  
+   181116 UFN    1030560 PAM5913 AT72/M SBBE1809 N0250 180 W27                                 SBHT0103 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5913              
+   181116 UFN    1030560 PAM5913 AT72/M SBHT1942 N0254 180 W12                                 SBIH0101 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5913              
+   080417 UFN    0000060 PAM5914 AT43/M SBEG1800 N0250 200 DCT MNS261200/N0220F145 VFR DCT     SWCA0203 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5914 RALT/F170    
+                                                                                                        DCT SBTF                      
+   080417 UFN    0000060 PAM5915 AT43/M SWCA2043 N0250 135 DCT MNS261200/N0220F190 IFR DCT     SBEG0204 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5915              
+   080417 UFN    0030007 PAM5924 AT72/M SBEG1030 N0249 200 W12                                 SBUA0203 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5924              
+   080417 UFN    0030007 PAM5925 AT72/M SBUA1313 N0220 190 W12                                 SBEG0210 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5925              
+   080417 UFN    0030007 PAM5934 AT72/M SBEG1600 N0250 180 A566                                SBTF0119 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5934              
+   270217 UFN    0030007 PAM5934 AT72/M SBTF1749 N0249 200 DCT TFE250200/N0220F145 VFR DCT     SWEI0140 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5934 RALT/190 DCT 
+                                                                                                        SBTF                          
+   080417 UFN    0030007 PAM5935 AT72/M SBTF2229 N0250 190 A566                                SBEG0115 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5935              
+   270217 UFN    0030007 PAM5935 AT72/M SWEI1939 N0250 135 DCT TFE250200/N0220F190 IFR DCT     SBTF0140 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5935              
+   080417 UFN    0004000 PAM5936 AT43/M SWKO1758 N0250 145 DCT                                 SWCA0107 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5936 RALT/F150    
+                                                                                                        DCT SBTF                      
+   080417 UFN    0004000 PAM5936 AT43/M SBEG1631 N0250 180 DCT MNS264100/N0220F145 VFR DCT     SWKO0057 EQPT/SD RALT/190 DCT SBEG     
+                                                                                                        RMK/INDICATIVO DE CHAMADA     
+                                                                                                        MAPI 5936                     
+   080417 UFN    0004000 PAM5937 AT43/M SWKO2153 N0250 135 DCT MNS264100/N0220F170 IFR DCT     SBEG0057 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI 5936             
+   080417 UFN    0004000 PAM5937 AT43/M SWCA1955 N0250 135 DCT                                 SWKO0108 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5937 RALT/F140    
+                                                                                                        DCT SBTF                      
+   080417 UFN    1000000 PAM5942 AT43/M SBEG1130 N0250 180 DCT MNS243200 DCT                   SWLB0150 EQPT/SD RMK/INDICATIVO DE     
+                                                           MNS243300/N0220F145 VFR DCT                  CHAMADA MAPI5942 RALT/F150    
+                                                                                                        DCT SBPV                      
+   080417 UFN    1000000 PAM5943 AT43/M SWLB1400 N0250 135 DCT MNS243300 DCT                   SBEG0152 EQPT/SD RMK/INDICATIVO DE     
+                                                           MNS243250/N0220F170 IFR DCT                  CHAMADA MAPI5943              
+   080417 UFN    0000560 PAM5948 AT43/M SBEG1132 N0250 180 DCT MNS319100/N0220F145 VFR DCT     SWBC0059 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5948 RALT/F180    
+                                                                                                        DCT SBEG                      
+   080417 UFN    0000560 PAM5949 AT43/M SWBC1301 N0250 145 DCT MNS320100/N0220F170 IFR DCT     SBEG0102 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5949              
+   281116 UFN    0204007 PAM5952 AT72/M SBEG1100 N0250 190 W27                                 SBTB0100 EQPT/SD RMK/INDICATIVO E      
+                                                                                                        CHAMADA MAPI5952              
+   181116 UFN    0204007 PAM5952 AT72/M SBSN1545 N0250 170 W27                                 SBHT0048 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5952              
+   281116 UFN    0204007 PAM5952 AT72/M SBTB1440 N0220 130 W27                                 SBSN0035 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5952              
+   181116 UFN    0204007 PAM5952 AT72/M SBHT1703 N0250 190 W27                                 SBBE0113 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5952              
+   181116 UFN    0204007 PAM5953 AT72/M SBHT2032 N0250 160 W27                                 SBSN0043 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5953              
+   151116 UFN    0204007 PAM5953 AT72/M SBTB2246 N0220 180 W27                                 SBEG0101 EQPT/S RMK/INDICATIVO DE      
+                                                                                                        CHAMADA MAPI 5953             
+   181116 UFN    0204007 PAM5953 AT72/M SBSN2145 N0250 160 W27                                 SBTB0031 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5953              
+   181116 UFN    0204007 PAM5953 AT72/M SBBE1858 N0250 180 W27                                 SBHT0104 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5953              
+   300716 UFN    0000500 PAM5964 AT72/M SBEG2230 N0250 190 DCT MNS098100/N0250F115 VFR DCT     SWPI0057 EQPT/SD RALT/F170 DCT SBSN    
+                                                                                                        RMK/INDICATIVO DE CHAMADA     
+                                                                                                        MAPI5964                      
+   300716 UFN    0000500 PAM5965 AT72/M SWPI2357 N0250 085 DCT MNS098100/N0250F180 IFR DCT     SBEG0058 EQPT/SD RMK/INDICATIVO DE     
+                                                                                                        CHAMADA MAPI5965              
+   300716 UFN    1000000 PAM5966 AT72/M SBEG1637 N0250 190 DCT MNS098100/N0250F115 VFR DCT     SWPI0054 EQPT/SD RALT/F170 DCT SBSN    
+                                                                                                        RMK/INDICATIVO DE CHAMADA     
+                                                                                                        MAPI5966                      
+   300716 UFN    1000000 PAM5967 AT72/M SWPI1801 N0250 085 DCT MNS098100/N0250F180 IFR DCT     SBEG0054 EQPT/SD RMK/INIDICATIVO DE    
+                                                                                                        CHAMADA MAPI5967              

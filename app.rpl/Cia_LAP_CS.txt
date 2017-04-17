@@ -1,0 +1,17 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: LAP                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   260317 141017 1234567 LAP717 A320/M SBGR1040 N0460 340 DCT ANDOR UL301 VAS DCT             SGAS0137 EQPT/SDE2FGHIRWXYZ            
+                                                                                                        PBN/A1B1D1L1O1O4S1S2 DAT/SV   
+                                                                                                        EET/SGFA0105 SEL/AHPR         
+                                                                                                        CODE/E492AD OPR/TAM RMK/TCAS  
+                                                                                                        PER/C                         

@@ -1,0 +1,581 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: ONE                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   200217 UFN    1234567 ONE6000 A319/M SBSP0940 N0450 270 DORLU UZ37 VUREP                    SBRJ0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP0950 PER/C          
+   190217 UFN    1234560 ONE6001 A319/M SBRJ0942 N0450 300 UMBAD UZ44 PAGOG                    SBSP0103 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1055 PER/C          
+   190217 UFN    1234560 ONE6002 A319/M SBSP1119 N0450 270 DORLU UZ37 VUREP                    SBRJ0101 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1125 PER/C          
+   190217 UFN    1234567 ONE6003 A319/M SBRJ1115 N0450 300 UMBAD UZ44 PAGOG                    SBSP0107 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1230 PER/C          
+   190217 UFN    1234567 ONE6004 A319/M SBSP1250 N0450 270 DORLU UZ37 VUREP                    SBRJ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1300 PER/C          
+   190217 UFN    1234500 ONE6005 A319/M SBRJ1251 N0450 300 UMBAD UZ44 PAGOG                    SBSP0106 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1405 PER/C          
+   200317 UFN    1234567 ONE6006 A319/M SBSP1028 N0450 270 DORLU UZ37 VUREP                    SBRJ0104 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1035 PER/C          
+   190217 UFN    1234567 ONE6007 A319/M SBRJ1420 N0450 300 UMBAD UZ44 PAGOG                    SBSP0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1535 PER/C          
+   190217 UFN    1234567 ONE6008 A319/M SBSP1555 N0450 270 DORLU UZ37 VUREP                    SBRJ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1605 PER/C          
+   190217 UFN    0000067 ONE6009 A319/M SBRJ1725 N0450 300 UMBAD UZ44 PAGOG                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1835 PER/C          
+   190217 UFN    1234500 ONE6009 A319/M SBRJ1725 N0450 300 NAXOP UZ45 VUKIK                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1835 PER/C          
+   190217 UFN    1234567 ONE6010 A319/M SBSP1855 N0450 270 DORLU UZ37 VUREP                    SBRJ0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1905 PER/C          
+   190217 UFN    0000007 ONE6011 A319/M SBRJ1855 N0450 300 UMBAD UZ44 PAGOG                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2005 PER/C          
+   190217 UFN    1234500 ONE6011 A319/M SBRJ1855 N0450 300 NAXOP UZ45 VUKIK                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2005 PER/C          
+   080417 UFN    1234507 ONE6012 A319/M SBSP2025 N0450 270 DORLU UZ37 VUREP                    SBRJ0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP2035 PER/C          
+   190217 UFN    0000067 ONE6013 A319/M SBRJ2030 N0450 300 UMBAD UZ44 PAGOG                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2140 PER/C          
+   190217 UFN    1234500 ONE6013 A319/M SBRJ2030 N0450 300 NAXOP UZ45 VUKIK                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2140 PER/C          
+   030317 UFN    1234567 ONE6014 A319/M SBSP2200 N0450 270 DORLU UZ37 VUREP                    SBRJ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP2210 PER/C          
+   190217 UFN    1234507 ONE6015 A319/M SBRJ2200 N0450 300 UMBAD UZ44 PAGOG                    SBSP0106 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2315 PER/C          
+   190217 UFN    1234507 ONE6016 A319/M SBSP2336 N0450 270 DORLU UZ37 VUREP                    SBRJ0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP2345 PER/C          
+   190217 UFN    1234567 ONE6017 A319/M SBRJ2330 N0450 300 UMBAD UZ44 PAGOG                    SBSP0055 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP0035 PER/C          
+   280317 UFN    0000060 ONE6018 A319/M SBSP1503 N0450 270 DORLU UZ37 VUREP                    SBRJ0102 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1510 PER/C          
+   190217 UFN    0000060 ONE6019 A319/M SBRJ1304 N0450 300 UMBAD UZ44 PAGOG                    SBSP0101 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1415 PER/C          
+   190217 UFN    0000007 ONE6020 A319/M SBSP1655 N0450 270 DORLU UZ37 VUREP                    SBRJ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1705 PER/C          
+   190217 UFN    0000060 ONE6021 A319/M SBRJ1820 N0450 300 UMBAD UZ44 PAGOG                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1930 PER/C          
+   190217 UFN    1234500 ONE6024 A319/M SBSP1425 N0450 270 DORLU UZ37 VUREP                    SBRJ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1435 PER/C          
+   190217 UFN    1234567 ONE6025 A319/M SBRJ0032 N0450 300 UMBAD UZ44 PAGOG                    SBSP0053 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP0140 PER/C          
+   190217 UFN    0000060 ONE6026 A319/M SBSP1955 N0450 270 DORLU UZ37 VUREP                    SBRJ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP2005 PER/C          
+   190217 UFN    0000060 ONE6027 A319/M SBRJ2130 N0450 300 UMBAD UZ44 PAGOG                    SBSP0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2240 PER/C          
+   190217 UFN    1234567 ONE6032 A319/M SBSP0030 N0450 270 DORLU UZ37 VUREP                    SBRJ0055 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP0040 PER/C          
+   190217 UFN    1234567 ONE6033 A319/M SBRJ1006 N0450 300 UMBAD UZ44 PAGOG                    SBSP0104 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1120 PER/C          
+   190217 UFN    1234500 ONE6034 A319/M SBSP1727 N0450 270 DORLU UZ37 VUREP                    SBRJ0058 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1735 PER/C          
+   190217 UFN    1234500 ONE6035 A319/M SBRJ1555 N0450 300 UMBAD UZ44 PAGOG                    SBSP0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1710 PER/C          
+   190217 UFN    1234560 ONE6060 A320/M SBSP1051 N0450 360 RCL UZ25 PABIN                      SBBR0144 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1100 PER/C          
+   190217 UFN    1234560 ONE6061 A320/M SBBR1322 N0450 370 MAVNI UZ2 ENTIT                     SBSP0148 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1520 PER/C          
+   190217 UFN    1234567 ONE6062 A320/M SBSP1540 N0450 360 RCL UZ25 PABIN                      SBBR0145 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1550 PER/C          
+   190217 UFN    1234567 ONE6063 A320/M SBBR1813 N0450 370 MAVNI UZ2 ENTIT                     SBSP0147 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2010 PER/C          
+   190217 UFN    1234507 ONE6064 A320/M SBSP2030 N0450 360 RCL UZ25 PABIN                      SBBR0150 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP2040 PER/C          
+   190217 UFN    1234507 ONE6065 A320/M SBBR2145 N0450 370 MAVNI UZ2 ENTIT                     SBSP0152 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2345 PER/C          
+   190217 UFN    0000060 ONE6067 A320/M SBBR1225 N0450 370 MAVNI UZ2 ENTIT                     SBSP0151 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1425 PER/C          
+   190217 UFN    1234567 ONE6074 A320/M SBSP0042 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0221 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBRE0109 RMK/DEP SP0050   
+                                                                                                        PER/C                         
+   280317 UFN    1234507 ONE6075 A320/M SBSV0712 N0450 360 BLOCK UZ10 PUBAV UZ16 POSMU DCT     SBSP0231 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           CNF DCT XOMOD UZ30 ENTIT                     EET/SBBS0049 RMK/ARR SP1025   
+                                                                                                        PER/C                         
+   190217 UFN    0204000 ONE6077 A318/M SBBR1611 N0450 370 MAVNI UZ2 ENTIT                     SBSP0149 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0156 RMK/ARR SP1810   
+                                                                                                        PER/C                         
+   190217 UFN    1030500 ONE6078 A318/M SBSP1800 N0439 360 RCL UZ25 PABIN                      SBBR0150 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0156 RMK/DEP SP1810   
+                                                                                                        PER/C                         
+   260317 UFN    0000060 ONE6079 A320/M SBSV0745 N0477 360 BLOCK UZ10 PUBAV UZ16 POSMU DCT     SBSP0230 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           CNF DCT XOMOD UZ30 ENTIT                     EET/SBBS0049 RMK/ARR SP1025   
+                                                                                                        PER/C                         
+   190217 UFN    0230060 ONE6080 A332/H SBGR0819 N0460 380 DCT RCL UM417 OBGAT UZ21            SBEG0346 EQPT/SDE1E2E3FGHIRWXY         
+                                                           ISIPA/N0450F350 UM402 MNS DCT                PBN/B1O1S2 EET/SBAZ0149 PER/C 
+   190217 UFN    0230060 ONE6081 A332/H SBEG1335 N0460 390 DCT POSTU UL795 ETAXI UZ38 MOXEP    SBGR0352 EQPT/SDE1E2E3FGHIRWXY         
+                                                           DCT                                          PBN/B1O1S2 EET/SBBS0127       
+                                                                                                        SBCW0313 PER/C                
+   190217 UFN    0000500 ONE6082 A332/H SBGR0931 N0460 380 DCT RCL UM417 OBGAT UZ21            SBEG0354 EQPT/SDE1E2E3FGHIRWXY         
+                                                           ISIPA/N0450F350 UM402 MNS DCT                PBN/B1O1S2 EET/SBAZ0149 PER/C 
+   190217 UFN    0000500 ONE6083 A332/H SBEG1500 N0460 390 DCT POSTU UL795 ETAXI UZ38 MOXEP    SBGR0346 EQPT/SDE1E2E3FGHIRWXY         
+                                                           DCT                                          PBN/B1O1S2 EET/SBBS0127       
+                                                                                                        SBCW0313 PER/C                
+   190217 UFN    0000060 ONE6102 A319/M SBSP1016 N0450 360 CURSE UM792 SANBO DCT PONCA         SBFL0114 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1025 PER/C          
+   200317 UFN    0000060 ONE6103 A319/M SBFL1215 N0450 370 DCT ESENO DCT RONUT UZ23 NEGUS      SBSP0118 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1325 PER/C          
+   190217 UFN    1234567 ONE6114 A320/M SBGR0145 N0450 360 DCT CURSE UM788 NAFIL UW24 OCASO    SBPA0142 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    0000067 ONE6118 A320/M SBGR1611 N0450 310 GENKO UZ42 ESORU                    SBGL0104 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    0000067 ONE6119 A320/M SBGL1755 N0450 340 SIDUR UZ10 TBE                      SBGR0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6121 A320/M SBPA0840 N0450 370 UM540 OSAMU UM671 ANISE DCT         SBGR0148 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6122 A320/M SBGR1601 N0450 360 DCT CURSE UM788 NAFIL UW24 OCASO    SBPA0137 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   280317 UFN    1234567 ONE6123 A320/M SBPA1724 N0450 370 UM540 OSAMU UM671 ANISE DCT         SBGR0151 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   200217 UFN    1234567 ONE6124 A319/M SBJU1855 N0450 360 DCT OGTID UZ27 MUNUX UZ27           SBBR0223 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0135 PER/C            
+   020317 UFN    1234567 ONE6125 A319/M SBBR1505 N0450 370 DCT SIMUV UZ27 PALMO UZ27 MUNUX     SBJU0220 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           UZ27 EVNUM DCT                               EET/SBRE0030 PER/C            
+   190217 UFN    1234567 ONE6126 A320/M SBGR1105 N0450 360 DCT CURSE UM788 NAFIL UW24 OCASO    SBPA0149 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+
+
+CIA: ONE                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 2
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   190217 UFN    1234567 ONE6127 A320/M SBPA1325 N0450 370 UM540 OSAMU UM671 ANISE DCT         SBGR0150 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   200217 UFN    1234567 ONE6128 A320/M SBGR2026 N0450 360 DCT CURSE UM788 NAFIL UW24 OCASO    SBPA0148 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   200317 UFN    1234567 ONE6129 A320/M SBPA2315 N0450 370 UM540 OSAMU UM671 ANISE DCT         SBGR0147 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6136 A320/M SBGL2355 N0450 370 IMBAP UZ42 POTRO UZ17 REC DCT       SBJP0300 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0027 PER/C            
+   190217 UFN    1234567 ONE6137 A320/M SBJP0820 N0450 360 DCT AMBET UN857 MOLSU               SBGL0305 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0205 PER/C            
+   190217 UFN    1234567 ONE6140 A320/M SBSV1335 N0450 350 DCT CONDE UZ17 ORAGO DCT MCE        SBMO0109 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6141 A320/M SBMO1514 N0450 360 DCT ORAGO UZ17 CONDE UZ17           SBSV0110 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6142 A320/M SBSV1718 N0450 350 DCT CONDE UZ17 POTRO DCT            SBRF0118 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6143 A320/M SBRF1912 N0450 340 DCT MCE DCT ORAGO UZ17 ARU DCT      SBSV0127 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6152 A320/M SBGR2145 N0450 310 GENKO UZ42 ESORU                    SBGL0112 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6153 A320/M SBGL1201 N0450 340 SIDUR UZ10 TBE                      SBGR0114 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6160 A320/M SBFL1055 N0450 370 UW19 CTB UW6 BRU UZ5 ENACT UZ5      SBBR0217 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0050 PER/C            
+   190217 UFN    1234567 ONE6161 A320/M SBBR2311 N0450 360 UZ5 ENACT UZ5 BRU UW6 CTB UW19      SBFL0225 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0056 PER/C            
+   190217 UFN    1234500 ONE6170 A320/M SBSP0915 N0450 360 RCL UZ25 PABIN                      SBBR0145 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP0925 PER/C          
+   190217 UFN    1234507 ONE6171 A320/M SBBR2113 N0450 370 MAVNI UZ2 ENTIT                     SBSP0147 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP2310 PER/C          
+   190217 UFN    1234567 ONE6172 A319/M SBSP1201 N0450 360 RCL UZ25 PABIN                      SBBR0154 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1210 PER/C          
+   190217 UFN    1234567 ONE6173 A319/M SBBR2215 N0450 370 MAVNI UZ2 ENTIT                     SBSP0140 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP0005 PER/C          
+   190217 UFN    1234567 ONE6174 A320/M SBFL1550 N0450 320 DCT AKVIS DCT CLUNG DCT UMGOR DCT   SBCH0055 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6174 A320/M SBGR1400 N0450 360 CURSE UM792 SANBO DCT PONCA         SBFL0120 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6175 A320/M SBCH1715 N0450 330 DCT UMGOR DCT CLUNG DCT AKVIS DCT   SBFL0055 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6175 A320/M SBFL1842 N0450 350 UW21 ANISE                          SBGR0119 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0043 SBCW0052 PER/C   
+   120317 UFN    0000007 ONE6176 A320/M SBSP1844 N0450 360 RCL UZ25 PABIN                      SBBR0146 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1850 PER/C          
+   190217 UFN    0000007 ONE6180 A319/M SBSP1227 N0450 360 CURSE UM792 SANBO DCT PONCA         SBFL0110 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP1235 PER/C          
+   190217 UFN    0000007 ONE6181 A319/M SBFL1415 N0450 350 DCT ESENO DCT RONUT UZ23 NEGUS      SBSP0114 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1535 PER/C          
+   030317 UFN    1234567 ONE6184 A320/M SBGR1521 N0450 340 DCT LOLAG UZ73 DIDOM                SBFI0145 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   060317 UFN    1234567 ONE6185 A320/M SBFI1743 N0450 350 UM548 RONUT UM671 ANISE UW21 SAT    SBGR0148 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0004 SBBS0114 PER/C   
+   190217 UFN    1234567 ONE6186 A320/M SBCY1220 N0450 310 UM668 MOLPA UM668 BSI               SBBR0136 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6187 A320/M SBBR2245 N0450 300 DCT TIPTU DCT GNV UZ46              SBCY0145 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBAZ0055 PER/C            
+   300317 UFN    1234500 ONE6188 A320/M SBGR2010 N0450 360 UKBEV UZ26 VUKEP                    SBBR0147 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234500 ONE6189 A320/M SBBR1155 N0450 370 NIMKI UZ38 MOXEP                    SBGR0155 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   260317 UFN    0030000 ONE6190 A320/M SBGR1055 N0450 370 USAMO UZ14 SILUB DCT BHZ UZ61       SBJP0310 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUDOL UZ30 AVILA UZ59 ZIPAR DCT              EET/SBBS0008 SBRE0107 PER/C   
+   280317 UFN    0000560 ONE6192 A320/M SBGR1036 N0450 370 USAMO UZ14 SILUB DCT BHZ UZ61       SBJP0322 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUDOL UZ30 AVILA UZ59 ZIPAR DCT              EET/SBBS0008 SBRE0107 PER/C   
+   300317 UFN    1204007 ONE6194 A320/M SBGR1115 N0450 370 USAMO UZ14 SILUB DCT BHZ UZ61       SBJP0310 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUDOL UZ30 AVILA UZ59 ZIPAR DCT              EET/SBBS0008 SBRE0107 PER/C   
+   190217 UFN    1234567 ONE6195 A320/M SBJP1453 N0450 360 DCT VSA DCT KIDAN UZ59 AVILA UZ14   SBGR0325 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           TOMAS UZ21 UTGIR UZ21 MOXEP DCT              EET/SBBS0141 PER/C            
+   190217 UFN    1234567 ONE6196 A320/M SBGR1740 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBAR0245 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           SVD UZ17                                     EET/SBRE0115 PER/C            
+   190217 UFN    1234567 ONE6197 A320/M SBAR2115 N0450 360 CONDE UZ17 SVD UZ10 PUBAV UZ16      SBGR0257 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           POSMU DCT CNF UZ21 MOXEP                     EET/SBBS0119 SBCW0216 PER/C   
+   190217 UFN    1234567 ONE6200 A320/M SBGL1227 N0450 370 IMBAP UZ1 FERMA UZ36 MUMAS          SBSV0211 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0030 PER/C            
+   190217 UFN    1234567 ONE6201 A320/M SBSV2033 N0450 360 DOKLU UZ44 SGR UN857 MOLSU          SBGL0221 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0120 PER/C            
+   030317 UFN    1234567 ONE6210 A320/M SBGL1802 N0450 370 IMBAP UZ1 FERMA UZ36 MUMAS          SBSV0200 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0030 PER/C            
+   030317 UFN    1234567 ONE6211 A320/M SBSV0927 N0450 360 DOKLU UZ44 SGR UN857 MOLSU          SBGL0216 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0120 PER/C            
+   030317 UFN    1234567 ONE6212 A320/M SBGL2340 N0450 370 IMBAP UZ1 FERMA UZ36 MUMAS          SBSV0210 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0030 PER/C            
+   030317 UFN    1234567 ONE6213 A320/M SBSV1509 N0450 360 DOKLU UZ44 SGR UN857 MOLSU          SBGL0212 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0114 PER/C            
+   190217 UFN    1234567 ONE6214 A320/M SBGL2120 N0450 360 UM409 ETIGU UM409                   SBBR0150 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0037 PER/C            
+   190217 UFN    1234567 ONE6215 A320/M SBBR1212 N0450 370 MUGIS UZ35 LUVSU UZ24 MAVGU         SBGL0149 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0059 PER/C            
+   190217 UFN    1234567 ONE6216 A320/M SBGL0032 N0450 360 UM409 ETIGU UM409                   SBBR0153 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0037 PER/C            
+   190217 UFN    1234567 ONE6217 A320/M SBBR0938 N0450 370 MUGIS UZ35 LUVSU UZ24 MAVGU         SBGL0147 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0059 PER/C            
+   190217 UFN    1234567 ONE6218 A320/M SBGL1220 N0450 360 UM409 ETIGU UM409                   SBBR0155 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0032 PER/C            
+   030317 UFN    1234567 ONE6219 A320/M SBBR2154 N0450 370 MUGIS UZ35 LUVSU UZ24 MAVGU         SBGL0200 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0052 PER/C            
+   190217 UFN    1234567 ONE6220 A319/M SBRJ1200 N0450 360 DCT MUDKA UM409 REINA DCT           SBBR0155 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0028 PER/C            
+   030317 UFN    1234567 ONE6222 A319/M SBBR1504 N0522 390 UZ19 EGDES UZ19 SVD DCT             SBAR0216 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRF0036 PER/C            
+   200217 UFN    1234567 ONE6223 A319/M SBAR1825 N0450 360 UZ17 SIMUV DCT BSI DCT              SBBR0210 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0112 PER/C            
+   030317 UFN    1234567 ONE6224 A320/M SBBR2357 N0450 370 DCT SELDI UZ19 EGDES UZ19           SBSV0157 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0033 PER/C            
+   190217 UFN    1234567 ONE6224 A320/M SBSV0223 N0450 190 W33                                 SBAR0052 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6225 A320/M SBAR0755 N0450 180 W33                                 SBSV0050 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6225 A320/M SBSV0920 N0450 360 UZ17 MALBA UZ17 APINO UZ17          SBBR0150 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0052 PER/C            
+   190217 UFN    1234567 ONE6226 A320/M SBGL1458 N0450 370 IMBAP UZ1 FERMA UZ36 MUMAS          SBSV0202 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0026 PER/C            
+   190217 UFN    1234567 ONE6227 A320/M SBSV1822 N0450 360 DOKLU UZ44 SGR UN857 MOLSU          SBGL0218 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0114 PER/C            
+   030317 UFN    1234567 ONE6230 A318/M SBRJ0910 N0450 360 DCT MUDKA UM409 REINA DCT           SBBR0148 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0029 PER/C            
+   190217 UFN    1234567 ONE6231 A318/M SBBR2247 N0450 370 NIMKI UZ6 TOKIM                     SBRJ0153 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0054 RMK/ARR RJ2350   
+                                                                                                        PER/C                         
+   030317 UFN    1234567 ONE6232 A318/M SBRJ1411 N0450 360 DCT MUDKA UM409 REINA DCT           SBBR0149 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0028 PER/C            
+
+
+CIA: ONE                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 3
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   210217 UFN    1234567 ONE6233 A318/M SBBR1145 N0450 370 NIMKI UZ6 TOKIM                     SBRJ0155 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0053 RMK/ARR RJ1250   
+                                                                                                        PER/C                         
+   030317 UFN    1234567 ONE6234 A318/M SBRJ1943 N0450 360 DCT MUDKA UM409 REINA DCT           SBBR0147 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0028 PER/C            
+   190217 UFN    1234567 ONE6235 A318/M SBBR1707 N0450 370 NIMKI UZ6 TOKIM                     SBRJ0148 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0053 RMK/ARR RJ1805   
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6237 A319/M SBBR2205 N0450 370 NIMKI UZ6 TOKIM                     SBRJ0155 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0053 RMK/ARR RJ2310   
+                                                                                                        PER/C                         
+   020417 UFN    1000000 ONE6238 A320/M SBGR0043 N0450 360 DCT DORMI UL310 ORANA DCT           SBCT0104 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6240 A320/M SBCT1138 N0450 370 UW6 BRU UZ5 ENACT UZ5               SBBR0154 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0034 PER/C            
+   030317 UFN    1234567 ONE6241 A320/M SBCT1320 N0522 390 SANBO UM548 ANISE                   SBGR0112 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   030317 UFN    1234567 ONE6242 A320/M SBGR1123 N0450 360 DCT DORMI UL310 ORANA DCT           SBCT0107 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   300317 UFN    1234567 ONE6243 A320/M SBCT0902 N0450 370 SANBO UM548 ANISE                   SBGR0101 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6244 A320/M SBGR1535 N0450 360 DCT DORMI UL310 ORANA DCT           SBCT0108 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6245 A320/M SBBR2232 N0450 360 DCT KUKOL UZ5 ENACT UZ5 BRU UW6     SBCT0215 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MORLU DCT                                    EET/SBCW0103 PER/C            
+   300317 UFN    1234567 ONE6246 A320/M SBGR2026 N0450 360 DCT DORMI UL310 ORANA DCT           SBCT0102 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6247 A320/M SBCT1718 N0450 370 SANBO UM548 ANISE                   SBGR0109 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   080417 UFN    0234567 ONE6248 A320/M SBGR0121 N0450 360 DCT DORMI UL310 ORANA DCT           SBCT0114 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   030317 UFN    1234567 ONE6249 A320/M SBCT2202 N0450 370 SANBO UM548 ANISE                   SBGR0110 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6250 A320/M SBGR1047 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0218 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBRE0050 PER/C            
+   190217 UFN    1234567 ONE6251 A320/M SBSV0710 N0450 360 BLOCK UZ10 TBE                      SBGR0242 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0106 PER/C            
+   190217 UFN    1234500 ONE6252 A320/M SBGR1509 N0450 310 GENKO UZ42 ESORU                    SBGL0101 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   030317 UFN    1234567 ONE6253 A320/M SBGL2100 N0459 340 SIDUR UZ10 TBE                      SBGR0110 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   300317 UFN    1234567 ONE6256 A320/M SBGR1117 N0450 310 GENKO UZ42 ESORU                    SBGL0059 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234500 ONE6257 A320/M SBGL1746 N0450 340 UMBAD UZ44 PAGOG                    SBGR0114 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   300317 UFN    1234567 ONE6258 A320/M SBGR0048 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0228 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBBS0006 SBRE0050 PER/C   
+   190217 UFN    1234567 ONE6259 A320/M SBSV2112 N0450 360 BLOCK UZ10 TBE                      SBGR0246 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0106 PER/C            
+   190217 UFN    1234567 ONE6260 A320/M SBGR1942 N0450 360 CURSE UM792 SANBO DCT PONCA         SBFL0120 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6261 A320/M SBFL1423 N0450 350 UW21 ANISE                          SBGR0121 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0043 SBCW0052 PER/C   
+   030317 UFN    1234567 ONE6262 A320/M SBGL1210 N0450 360 BITAK UN857 DEUCA                   SBFL0143 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   220317 UFN    1234567 ONE6263 A320/M SBFL2135 N0450 370 EKUBI UN857 AKNUB                   SBGL0135 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6268 A320/M SBGL1310 N0450 370 IMBAP UZ42 MCE                      SBRF0255 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0026 PER/C            
+   190217 UFN    1234567 ONE6269 A320/M SBRF1704 N0450 360 RUBEN UN857 MOLSU                   SBGL0301 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0159 PER/C            
+   190217 UFN    1234567 ONE6270 A320/M SBFZ0804 N0450 360 EDVAR UZ29 OGMUK                    SBGL0316 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0224 SBCW0309 PER/C   
+   190217 UFN    1234567 ONE6271 A320/M SBGL2351 N0450 370 IMBAP UZ1 EVNUM DCT ABUCU DCT       SBFZ0317 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0026 PER/C            
+   300317 UFN    1234567 ONE6276 A320/M SBPA1003 N0450 370 JUICE UN857 AKNUB                   SBGL0148 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6276 A320/M SBGL1246 N0450 370 IMBAP UZ1 EVNUM DCT ABUCU DCT       SBFZ0316 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0026 PER/C            
+   190217 UFN    1234567 ONE6277 A320/M SBFZ1935 N0450 360 EDVAR UZ29 OGMUK                    SBGL0319 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0151 SBCW0224 PER/C   
+   190217 UFN    1234567 ONE6277 A320/M SBGL2357 N0450 360 BITAK UN857 DEUCA DCT FLN UW19      SBPA0214 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           OCASO                                        PER/C                         
+   190217 UFN    1234567 ONE6278 A320/M SBGL2349 N0450 370 IMBAP UZ42 MCE                      SBRF0246 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0026 PER/C            
+   190217 UFN    1234567 ONE6278 A320/M SBPA2017 N0450 370 JUICE UN857 AKNUB                   SBGL0201 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6279 A320/M SBRF0830 N0450 360 RUBEN UN857 MOLSU                   SBGL0301 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0159 PER/C            
+   190217 UFN    1234567 ONE6279 A320/M SBGL1247 N0450 360 BITAK UN857 DEUCA DCT FLN UW19      SBPA0210 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           OCASO                                        PER/C                         
+   210317 UFN    1234567 ONE6284 A320/M SBSP1025 N0450 270 UGPOP UZ42 ESORU                    SBGL0103 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP0956 PER/C          
+   190217 UFN    1234567 ONE6285 A320/M SBGL1231 N0450 300 UMBAD UZ44 PAGOG                    SBSP0109 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP1250 PER/C          
+   300317 UFN    1234567 ONE6286 A320/M SBSP2104 N0450 270 UGPOP DCT ESORU                     SBGL0106 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/DEP SP2220 PER/C          
+   300317 UFN    1234567 ONE6287 A320/M SBGL2250 N0443 340 NAXOP UZ45 VUKIK DCT                SBSP0114 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RMK/ARR SP0010 PER/C          
+   290317 UFN    1234567 ONE6290 A320/M SBGR0105 N0450 340 RCL UZ25 CORVO UZ46                 SBGO0145 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0011 PER/C            
+   290317 UFN    1234567 ONE6291 A320/M SBGO0820 N0450 350 SEKLI UZ31 ILPAV DCT MOMKO UZ38     SBGR0152 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MOXEP                                        PER/C                         
+   190217 UFN    0200000 ONE6293 A320/M SBGO0830 N0450 350 SEKLI UZ31 ILPAV DCT MOMKO UZ38     SBGR0146 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MOXEP                                        PER/C                         
+   030317 UFN    1234567 ONE6300 A320/M SBBR1501 N0450 350 DCT SIMUV UZ59 IMBES UZ59           SBRF0236 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0023 PER/C            
+   190217 UFN    1234567 ONE6301 A320/M SBRF1822 N0450 360 UZ59 CARVA                          SBBR0243 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0148 PER/C            
+   030317 UFN    1234567 ONE6302 A320/M SBGR1910 N0450 370 DCT USAMO UZ14 AVILA UZ59 ZIPAR DCT SBRF0308 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0008 SBRE0115 PER/C   
+   020317 UFN    1234567 ONE6303 A320/M SBRF2310 N0450 360 MCE UZ42 SAVBI DCT SARLA UZ10 TBE   SBGR0330 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0202 SBCW0202         
+                                                                                                        SBBS0236 SBCW0249 PER/C       
+   030317 UFN    1234567 ONE6304 A320/M SBGR0935 N0450 370 DCT USAMO UZ14 AVILA UZ59 ZIPAR DCT SBRF0308 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0008 SBRE0115 PER/C   
+   110317 UFN    1234567 ONE6305 A320/M SBRF1327 N0450 360 MCE UZ42 RAIRA DCT PUBAV UZ16       SBGR0318 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           POSMU DCT CNF UZ21 MOXEP                     EET/SBBS0150 SBCW0250 PER/C   
+   190217 UFN    1234567 ONE6306 A320/M SBBR1528 N0450 370 DCT ORATE UZ59 IMBES UZ59 ZIPAR DCT SBMO0225 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0024 PER/C            
+   030317 UFN    1234567 ONE6307 A319/M SBMO1825 N0450 360 DCT ZIPAR UZ59 IMBES UZ59 SIMUV DCT SBBR0225 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0138 PER/C            
+   190217 UFN    1234567 ONE6308 A320/M SBBR1447 N0450 370 FLASH UZ27 PTL DCT LOMOK DCT SEVIL  SBSG0243 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           UZ14 RODES DCT                               EET/SBRE0023 PER/C            
+   190217 UFN    1234567 ONE6309 A320/M SBSG1822 N0450 360 SEVIL DCT LOMOK DCT IMBOG DCT       SBBR0251 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUGAV DCT AUGUR UZ59 CARVA                   EET/SBBS0156 PER/C            
+   190217 UFN    1234507 ONE6310 A320/M SBSV2332 N0450 350 DCT CONDE UZ17 POTRO DCT            SBRF0118 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234560 ONE6310 A320/M SBRF0120 N0450 340 DCT 0856S03825W DCT                 SBPL0115 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   300317 UFN    1234507 ONE6310 A320/M SBGR2047 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0213 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBBS0006 SBRE0050 PER/C   
+   190217 UFN    1234560 ONE6311 A320/M SBRF1055 N0450 340 DCT MCE DCT ORAGO UZ17 ARU DCT      SBSV0120 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+
+
+CIA: ONE                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 4
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   230217 UFN    1234560 ONE6311 A320/M SBSV1245 N0450 360 BLOCK UZ10 TBE                      SBGR0246 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0100 PER/C            
+   190217 UFN    1234560 ONE6311 A320/M SBPL0915 N0450 310 DCT 0841S03826W DCT ILNOT UZ11      SBRF0110 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6312 A320/M SBSV1206 N0450 350 DCT CONDE UZ17 POTRO DCT            SBRF0119 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6312 A320/M SBRF1355 N0450 340 DCT 0856S03825W DCT                 SBPL0115 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   210317 UFN    1234567 ONE6312 A320/M SBGR0911 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0216 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBBS0006 SBRE0050 PER/C   
+   190217 UFN    1234567 ONE6313 A320/M SBPL2055 N0450 310 DCT 0841S03826W DCT ILNOT UZ11      SBRF0117 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6313 A320/M SBSV0043 N0450 360 BLOCK UZ10 TBE                      SBGR0227 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0106 PER/C            
+   190217 UFN    1234567 ONE6313 A320/M SBRF2253 N0450 340 DCT MCE DCT ORAGO UZ17 ARU DCT      SBSV0119 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   210317 UFN    1234567 ONE6314 A320/M SBGR1614 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0223 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBBS0006 SBRE0050 PER/C   
+   190217 UFN    1234567 ONE6314 A320/M SBSV1924 N0450 340 UZ20                                SBPL0101 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6315 A320/M SBPL1540 N0450 350 UZ20                                SBSV0114 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   230217 UFN    1234500 ONE6315 A320/M SBSV1725 N0455 380 BLOCK UZ10 PUBAV UZ16 POSMU DCT     SBGR0244 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           CNF UZ21 MOXEP                               EET/SBCW0106 PER/C            
+   230217 UFN    0000067 ONE6315 A320/M SBSV1725 N0450 360 BLOCK UZ10 TBE                      SBGR0244 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0102 PER/C            
+   200217 UFN    1234567 ONE6316 A320/M SBGR2332 N0450 370 DCT USAMO UZ14 AVILA UZ59 ZIPAR DCT SBRF0306 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0008 SBRE0108 PER/C   
+   020317 UFN    1234567 ONE6317 A320/M SBRF0958 N0450 360 MCE UZ42 SAVBI DCT SARLA UZ10 TBE   SBGR0324 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0202 SBCW0202         
+                                                                                                        SBBS0236 SBCW0249 PER/C       
+   190217 UFN    1234567 ONE6318 A320/M SBBR2210 N0450 370 NIMKI UZ38 MOXEP                    SBGR0156 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6318 A320/M SBFL0240 N0450 320 DCT AKVIS DCT CLUNG DCT UMGOR DCT   SBCH0105 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6318 A320/M SBGR0045 N0450 360 CURSE UM792 SANBO DCT PONCA         SBFL0120 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6319 A320/M SBGR1215 N0450 360 UKBEV UZ26 VUKEP                    SBBR0145 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   030317 UFN    1234567 ONE6319 A320/M SBFL1025 N0450 350 UW21 ANISE                          SBGR0111 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0043 SBCW0052 PER/C   
+   190217 UFN    1234567 ONE6319 A320/M SBCH0900 N0450 330 DCT UMGOR DCT CLUNG DCT AKVIS DCT   SBFL0055 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   030317 UFN    1234567 ONE6320 A320/M SBBR1446 N0450 370 DCT SELDI UZ19 EGDES UZ19           SBSV0200 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0029 PER/C            
+   030317 UFN    1234567 ONE6321 A320/M SBSV1810 N0450 360 UZ17 MALBA UZ17 APINO UZ17          SBBR0212 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0058 PER/C            
+   210317 UFN    0000060 ONE6322 A320/M SBGR2048 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0212 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBBS0006 SBRE0050 PER/C   
+   190217 UFN    0000060 ONE6322 A320/M SBSV2332 N0450 350 DCT CONDE UZ17 POTRO DCT            SBRF0118 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   230217 UFN    0000007 ONE6323 A320/M SBSV1245 N0450 360 BLOCK UZ10 TBE                      SBGR0248 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0100 PER/C            
+   100217 UFN    0000007 ONE6323 A320/M SBRF1055 N0450 340 DCT MCE DCT ORAGO UZ17 ARU DCT      SBSV0120 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   200217 UFN    1234567 ONE6324 A320/M SBGR1435 N0450 370 DCT USAMO UZ14 AVILA UZ59 ZIPAR DCT SBRF0310 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0008 SBRE0108 PER/C   
+   020317 UFN    1234567 ONE6325 A320/M SBRF1830 N0450 360 MCE UZ42 SAVBI DCT SARLA UZ10 TBE   SBGR0325 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0202 SBCW0202         
+                                                                                                        SBBS0236 SBCW0249 PER/C       
+   190217 UFN    1234567 ONE6326 A319/M SBIL1700 N0250 065 DCT YLH/N0450F230 IFR DCT CORAL W33 SBSV0049 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6326 A319/M SBBR1436 N0450 350 UZ19 EGDES UZ19 MALRA DCT           SBIL0151 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           VCO/N0250F135 VFR DCT                        EET/SBRE0030 RALT/F330 DINER  
+                                                                                                        UZ44 SVD UZ17 SBAR PER/C      
+   190217 UFN    1234567 ONE6327 A319/M SBSV1820 N0450 240 W33 CORAL/N0250F145 VFR DCT         SBIL0054 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        RALT/F330 DINER UW50 SVD UW58 
+                                                                                                        SBAR PER/C                    
+   190217 UFN    1234567 ONE6327 A319/M SBIL1945 N0250 065 DCT YLH/N0450F380 IFR DCT VCO DCT   SBBR0151 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           PERLA UZ17 MALBA UZ17                        EET/SBBS0105 PER/C            
+   190217 UFN    0000060 ONE6330 A319/M SBSP1448 N0450 370 USAMO UZ14 SILUB DCT DEPOT UZ61     SBFZ0322 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           OBGEL DCT ABUCU                              EET/SBBS0010 SBRE1358 RMK/DEP 
+                                                                                                        SP1455 PER/C                  
+   190217 UFN    0000007 ONE6333 A319/M SBFZ1115 N0450 360 LOGOX DCT PUREU UN741               SBSP0332 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUKLO/N0450F350 UZ2 ENTIT                    EET/SBBS0147 SBCW0306         
+                                                                                                        SBBS0307 RMK/ARR SP1355 PER/C 
+   190217 UFN    1234567 ONE6342 A320/M SBBR1457 N0450 370 UZ59 IMBES UZ59 REC DCT JPS         SBJP0243 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0027 PER/C            
+   190217 UFN    1234567 ONE6343 A320/M SBJP1830 N0450 360 DCT REC UZ59 IMBES UZ59 SIMUV DCT   SBBR0250 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0145 PER/C            
+   210317 UFN    1234567 ONE6350 A320/M SBGR2333 N0464 370 USAMO UZ14 SILUB DCT BHZ UZ61       SBSG0317 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUDOL UZ30 AVILA UZ14 RODES DCT              EET/SBBS0006 SBRE0102 PER/C   
+   190217 UFN    1234567 ONE6351 A320/M SBSG1915 N0450 360 DCT SEVIL UZ14 TOMAS UZ21 MOXEP     SBGR0331 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0147 SBCW0302 PER/C   
+   190217 UFN    1234567 ONE6352 A320/M SBGR1357 N0464 370 USAMO UZ14 SILUB DCT BHZ UZ61       SBSG0318 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUDOL UZ30 AVILA UZ14 RODES DCT              EET/SBRE0102 PER/C            
+   190217 UFN    1234567 ONE6353 A320/M SBSG0915 N0450 360 DCT SEVIL UZ14 TOMAS UZ21 MOXEP     SBGR0332 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0147 SBCW0302 PER/C   
+   230217 UFN    0000067 ONE6355 A320/M SBSV1857 N0450 360 BLOCK UZ10 TBE                      SBGR0245 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0106 PER/C            
+   230217 UFN    1234500 ONE6355 A320/M SBSV1857 N0450 360 BLOCK UZ10 PAI DCT UMBAD UZ44 PAGOG SBGR0245 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0106 PER/C            
+   300317 UFN    1234567 ONE6356 A320/M SBGR1324 N0450 370 USAMO UZ14 GAXUB DCT POSMU UZ36     SBSV0224 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMAS                                        EET/SBBS0006 SBRE0050 PER/C   
+   280317 UFN    1234567 ONE6362 A320/M SBGO1315 N0300 190 DCT GNV W10 BSI DCT                 SBBR0045 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   280317 UFN    1234567 ONE6362 A320/M SBGR1100 N0450 360 RCL UZ25 CORVO UZ46                 SBGO0145 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6363 A320/M SBGO0057 N0450 370 SEKLI UZ31 ILPAV DCT MOMKO UZ38     SBGR0146 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MOXEP                                        PER/C                         
+   190217 UFN    1234567 ONE6363 A320/M SBBR2338 N0300 200 DCT BSI W10 GNV DCT                 SBGO0049 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6364 A320/M SBGR2232 N0450 370 USAMO UZ14 ELEFA DCT ARU DCT        SBMO0248 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBRE0104 PER/C            
+   190217 UFN    1234567 ONE6365 A320/M SBMO0930 N0450 360 UZ42 SAVBI DCT SARLA UZ10 TBE       SBGR0307 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0146 PER/C            
+   030317 UFN    1234567 ONE6370 A320/M SBGR2240 N0450 370 UBRIR UZ23 BHZ UZ61 OBGEL DCT       SBFZ0329 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           ABUCU DCT                                    EET/SBBS0005 SBRE0106 PER/C   
+   190217 UFN    1234567 ONE6371 A320/M SBFZ0959 N0450 360 LOGOX DCT PUREU UN741               SBGR0331 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMDI/N0450F350 UZ38 MOXEP                   EET/SBBS0153 SBCW0309 PER/C   
+   190217 UFN    1234567 ONE6372 A320/M SBGR1006 N0450 370 UBRIR UZ23 BHZ UZ61 OBGEL DCT       SBFZ0324 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           ABUCU DCT                                    EET/SBRE0106 PER/C            
+   190217 UFN    1234567 ONE6373 A320/M SBFZ1408 N0450 360 LOGOX DCT PUREU UM654               SBGR0336 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MOMKO/N0450F350 UZ38 MOXEP                   EET/SBBS0148 SBCW0310 PER/C   
+   030317 UFN    1234567 ONE6374 A320/M SBBR1458 N0450 370 DCT SIMUV UZ18 KORAN UZ18 NECTO     SBFZ0244 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           UZ18                                         EET/SBRE0025 PER/C            
+   030317 UFN    1234567 ONE6375 A320/M SBFZ1833 N0450 360 UZ18 NECTO UZ18 KORAN UZ18          SBBR0240 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0152 PER/C            
+   190217 UFN    1234567 ONE6376 A318/M SBGR0800 N0450 370 DCT UBRIR UZ23 BHZ UZ61 FORTI UZ61  SBJU0255 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           PTL UZ27 EVNUM DCT                           EET/SBRE0051 PER/C            
+   190217 UFN    1234567 ONE6376 A318/M SBJU1125 N0450 290 DCT IVPOS UZ1                       SBFZ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6377 A318/M SBFZ1255 N0450 280 UZ29 EDVAR DCT                      SBJU0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6377 A318/M SBJU1425 N0450 360 DCT EVNUM UZ27 DALMA UN741 CARDO    SBGR0305 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           UN741 MUMDI/N0450F350 UZ38 MOXEP             EET/SBBS0116 PER/C            
+
+
+CIA: ONE                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 5
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   190217 UFN    1234567 ONE6378 A318/M SBGR1815 N0450 370 DCT UBRIR UZ23 BHZ UZ61 FORTI UZ61  SBJU0300 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           PTL UZ27 EVNUM DCT                           EET/SBRE0051 PER/C            
+   190217 UFN    1234567 ONE6378 A318/M SBJU2145 N0450 290 DCT IVPOS UZ1                       SBFZ0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   190217 UFN    1234567 ONE6379 A318/M SBJU0050 N0450 360 DCT EVNUM UZ27 DALMA UN741 CARDO    SBGR0305 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           UN741 MUMDI/N0450F350 UZ38 MOXEP             EET/SBBS0116 PER/C            
+   190217 UFN    1234567 ONE6379 A318/M SBFZ2317 N0450 280 UZ29 EDVAR DCT                      SBJU0100 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        PER/C                         
+   030317 UFN    1234560 ONE6380 A318/M SBGR0912 N0450 360 SCB UM782 ILNIM UZ46                SBCY0224 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBAZ0125 PER/C            
+   210217 UFN    1234567 ONE6381 A318/M SBCY1210 N0450 370 KOKLI UZ8 EGONI UL795 ETAXI UZ38    SBGR0220 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MOXEP                                        EET/SBBS0027 SBCW0140 PER/C   
+   190217 UFN    1234560 ONE6382 A320/M SBCG1025 N0400 350 GRD DCT EGIMO DCT CIA               SBCY0115 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBAZ0030 PER/C            
+   110317 UFN    1234560 ONE6383 A320/M SBCY0110 N0450 340 UZ63 TOSAR UZ63 GRD                 SBCG0110 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0022 PER/C            
+   190217 UFN    1234567 ONE6386 A320/M SBGR2032 N0450 360 SCB UM782 ILNIM UZ46                SBCY0228 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0001 SBAZ0125 PER/C   
+   210217 UFN    1234507 ONE6387 A318/M SBCY2345 N0450 370 KOKLI UZ8 EGONI UL795 ETAXI UZ38    SBGR0226 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MOXEP                                        EET/SBBS0027 SBCW0140 PER/C   
+   190217 UFN    1234567 ONE6388 A320/M SBBR2226 N0450 360 BSI UM668 GNV UM544 GRD             SBCG0149 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBCW0055 PER/C            
+   190217 UFN    1234567 ONE6389 A320/M SBCG1151 N0450 370 DCT CREMA UM544 GNV UM668 BSI DCT   SBBR0139 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                                                                        EET/SBBS0027 PER/C            
+   030317 UFN    1234567 ONE6390 A320/M SBGR1419 N0450 370 UBRIR UZ23 BHZ UZ61 OBGEL DCT       SBFZ0330 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           ABUCU DCT                                    EET/SBRE0106 PER/C            
+   260317 UFN    1234567 ONE6391 A320/M SBFZ1848 N0450 360 LOGOX DCT PUREU UN741               SBGR0335 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMDI/N0450F350 UZ38 MOXEP                   EET/SBBS0153 SBCW0309 PER/C   
+   190217 UFN    1234567 ONE6392 A320/M SBGR1858 N0450 370 UBRIR UZ23 BHZ UZ61 OBGEL DCT       SBFZ0329 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           ABUCU DCT                                    EET/SBRE0106 PER/C            
+   190217 UFN    1234567 ONE6393 A320/M SBFZ2300 N0450 360 LOGOX DCT PUREU UN741               SBGR0331 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           MUMDI/N0450F350 UZ38 MOXEP                   EET/SBBS0153 SBCW0309 PER/C   
+   190217 UFN    0000060 ONE8500 A319/M SBFZ2026 N0450 360 DCT ESDAB UZ12 MNS UA323            SKBO0550 EQPT/SDFGHIRWY PBN/A1B1D1O1S2 
+                                                           SGC/N0454F380 UA323 BRACO UA323              EET/SBAZ0036 SKED0420 PER/C   
+                                                           VVC W44 DANSA W18 GIR W17 ABL DCT            

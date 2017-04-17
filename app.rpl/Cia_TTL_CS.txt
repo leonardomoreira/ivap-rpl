@@ -1,0 +1,25 @@
+
+
+                                               Planos de Voo Repetitivos
+                                               Classificação: Ident Anv
+
+CIA: TTL                                    INÍCIO DE VALIDADE: 17Abr2017                                       PAG.: 1
+-----------------------------------------------------------------------------------------------------------------------------------------
+   VALIDO VALIDO DIAS OP  IDENT  TIPO   ADEP     VEL   FL  ROTA                                DEST         OBSERVACOES
+   DESDE   ATE   STQQSSD   ANV     TURB     EOBT                                                   EET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+   190217 UFN    0234560 TTL5678 B722/M SBPA0215 N0463 310 DCT SAPMA DCT TQA DCT JUICE UM540   SBGR0121 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+                                                           OSAMU UM671 ANISE DCT SAT DCT                
+   190217 UFN    0234560 TTL5679 B722/M SBGR0710 N0466 320 DCT NIBGA DCT SEGNO UM788 NAFIL     SBPA0118 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+                                                           UW24 OCASO DCT                               
+   190217 UFN    0234560 TTL5680 B722/M SBCT0258 N0455 270 SANBO UM548 ANISE                   SBGR0045 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+   190217 UFN    0234560 TTL5680 B722/M SBFL0130 N0437 210 W48                                 SBCT0039 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+   190217 UFN    0234560 TTL5681 B722/M SBCT0840 N0396 180 W48                                 SBFL0038 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+   190217 UFN    0234560 TTL5681 B722/M SBGR0705 N0448 240 DCT NIBGA G449 CLARO DCT            SBCT0055 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+   190217 UFN    0234560 TTL5682 B722/M SBVT0145 N0463 320 SEKMI UL327 SIDUR UZ10 TBE          SBGR0110 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+                                                                                                        EET/SBCW0013                  
+   190217 UFN    0234560 TTL5683 B722/M SBGR0635 N0437 230 GENKO W7 ESORU                      SBGL0038 EQPT/SDGRW PBN/B2             
+   190217 UFN    0234560 TTL5683 B722/M SBGL0822 N0445 290 TISVA UL206                         SBVT0048 EQPT/SDGRWZ PBN/B2 NAV/GNSS   
+                                                                                                        EET/SBRE0033                  
