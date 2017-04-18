@@ -282,6 +282,46 @@ class Actions
                     "MTL"  => "A332AVA",
                     "PER"  => "D"
                 )
+            ),
+
+            "LAP" => array(
+                "OPR" => "TAM",
+                "A320" => array(
+                    "REG" => array("PRMBH"),
+                    "POB" => 195,
+                    "EQPT" => "SDE2FGHIRWXYZ",
+                    "MTL"  => "A320TAM",
+                    "PER"  => "C"
+                )
+            ),
+
+            "PAM" => array(
+                "OPR" => "MAP",
+                "AT43" => array(
+                    "REG"  => array("PRMPO"),
+                    "POB"  => 50,
+                    "EQPT" => "SD",
+                    "MTL"  => "AT43PAM",
+                    "PER"  => "B"
+                ),
+                "AT72" => array(
+                    "REG"  => array("PRMPY", "PRMPZ"),
+                    "POB"  => 74,
+                    "EQPT" => "SD",
+                    "MTL"  => "AT72PAM",
+                    "PER"  => "B"
+                )
+            ),
+
+            "TTL" => array(
+                "OPR" => "TOTAL",
+                "B722" => array(
+                    "REG" => array("PRTTO", "PRTTP", "PRTTW", "PTMTQ", "PTMTT"),
+                    "POB" => 6,
+                    "EQPT" => "SDGRWZ",
+                    "MTL"  => "B722TTL",
+                    "PER"  => "C"
+                )
             )
         );
 
