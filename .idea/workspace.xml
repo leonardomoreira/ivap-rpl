@@ -15,17 +15,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Actions.class.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Actions.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.class/Actions.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="237" column="30" lean-forward="false" selection-start-line="237" selection-start-column="30" selection-end-line="237" selection-end-column="30" />
+            <state relative-caret-position="2068">
+              <caret line="265" column="17" lean-forward="true" selection-start-line="265" selection-start-column="17" selection-end-line="265" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="423">
@@ -38,8 +38,8 @@
       <file leaf-file-name="Cia_AZU_CS.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.rpl/Cia_AZU_CS.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29172">
-              <caret line="1716" column="0" lean-forward="true" selection-start-line="1716" selection-start-column="0" selection-end-line="1716" selection-end-column="0" />
+            <state relative-caret-position="236">
+              <caret line="1290" column="32" lean-forward="false" selection-start-line="1290" selection-start-column="25" selection-end-line="1290" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -57,17 +57,19 @@
       <find>echo</find>
       <find>FROM</find>
       <find>AZU4984</find>
+      <find>SBFZ</find>
+      <find>AZU5130</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app.rpl/Cia_AVA_CS.txt" />
-        <option value="$PROJECT_DIR$/app.class/Actions.class.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app.rpl/Cia_AZU_CS.txt" />
         <option value="$PROJECT_DIR$/app.class/Actions.class.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app.class/Actions.class.php" />
       </list>
     </option>
   </component>
@@ -215,12 +217,12 @@
       <workItem from="1492440950918" duration="11925000" />
       <workItem from="1492453709880" duration="639000" />
       <workItem from="1492454467607" duration="45000" />
-      <workItem from="1492455720158" duration="14644000" />
+      <workItem from="1492455720158" duration="15594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27253000" />
+    <option name="totallyTimeSpent" value="28203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -367,26 +369,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.class/Actions.class.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="237" column="30" lean-forward="false" selection-start-line="237" selection-start-column="30" selection-end-line="237" selection-end-column="30" />
+        <state relative-caret-position="423">
+          <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.rpl/Cia_AZU_CS.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29172">
-          <caret line="1716" column="0" lean-forward="true" selection-start-line="1716" selection-start-column="0" selection-end-line="1716" selection-end-column="0" />
+        <state relative-caret-position="236">
+          <caret line="1290" column="32" lean-forward="false" selection-start-line="1290" selection-start-column="25" selection-end-line="1290" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/app.class/Actions.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        <state relative-caret-position="2068">
+          <caret line="265" column="17" lean-forward="true" selection-start-line="265" selection-start-column="17" selection-end-line="265" selection-end-column="17" />
           <folding />
         </state>
       </provider>

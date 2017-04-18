@@ -237,28 +237,28 @@ class Actions
             "AZU" => array(
                 "OPR" => "AZUL",
                 "A320" => array(
-                    "REG" => array("PR-YRA", "PR-YRB", "PR-YRC", "PR-YRD", "PR-YRE", "PR-YRF", "PR-YRH", "PR-YRI"),
+                    "REG" => array("PRYRA", "PRYRB", "PRYRC", "PRYRD", "PRYRE", "PRYRF", "PRYRH", "PRYRI"),
                     "POB" => 195,
                     "EQPT" => "SDFGHIRWY",
                     "MTL"  => "A320AZU",
                     "PER"  => "C"
                 ),
                 "A332" => array(
-                    "REG" => array("PR-AIT", "PR-AIU", "PR-AIV", "PR-AIW", "PR-AIZ"),
+                    "REG" => array("PRAIT", "PRAIU", "PRAIV", "PRAIW", "PRAIZ"),
                     "POB" => 247,
                     "EQPT" => "SDE2E3FGHIRWY",
                     "MTL"  => "A332AZU",
                     "PER"  => "D"
                 ),
                 "E190" => array(
-                    "REG"  => array("PR-AUA", "PR-AUB", "PR-AUC", "PR-AUD", "PR-AUE", "PR-AUF", "PR-AUH", "PR-AUI", "PR-AUJ", "PR-AUK", "PR-AUM", "PR-AUN", "PR-AUO", "PR-AUP", "PR-AUQ", "PR-AXA", "PR-AXB", "PR-AXC", "PR-AXD", "PR-AXE", "PR-AXF", "PR-AXG", "PR-AXH", "PR-AXI", "PR-AXJ", "PR-AXK", "PR-AXL", "PR-AXN", "PR-AXO", "PR-AXP", "PR-AXQ", "PR-AXR", "PR-AXS", "PR-AXT", "PR-AXU", "PR-AXW", "PR-AXX", "PR-AXY", "PR-AXZ", "PR-AYA", "PR-AYB", "PR-AYC", "PR-AYD", "PR-AYE", "PR-AYF", "PR-AYG", "PR-AYH", "PR-AYI", "PR-AYJ", "PR-AYK", "PR-AYL", "PR-AYM", "PR-AYN", "PR-AYO", "PR-AYQ", "PR-AYR", "PR-AYT", "PR-AYU", "PR-AYV", "PR-AYW", "PR-AYX", "PR-AYY", "PR-AYZ", "PR-AZA", "PR-AZB", "PR-AZC", "PR-AZD", "PR-AZE", "PR-AZF", "PR-AZG", "PR-AZH", "PR-AZI", "PR-AZL"),
+                    "REG"  => array("PRAUA", "PRAUB", "PRAUC", "PRAUD", "PRAUE", "PRAUF", "PRAUH", "PRAUI", "PRAUJ", "PRAUK", "PRAUM", "PRAUN", "PRAUO", "PRAUP", "PRAUQ", "PRAXA", "PRAXB", "PRAXC", "PRAXD", "PRAXE", "PRAXF", "PRAXG", "PRAXH", "PRAXI", "PRAXJ", "PRAXK", "PRAXL", "PRAXN", "PRAXO", "PRAXP", "PRAXQ", "PRAXR", "PRAXS", "PRAXT", "PRAXU", "PRAXW", "PRAXX", "PRAXY", "PRAXZ", "PRAYA", "PRAYB", "PRAYC", "PRAYD", "PRAYE", "PRAYF", "PRAYG", "PRAYH", "PRAYI", "PRAYJ", "PRAYK", "PRAYL", "PRAYM", "PRAYN", "PRAYO", "PRAYQ", "PRAYR", "PRAYT", "PRAYU", "PRAYV", "PRAYW", "PRAYX", "PRAYY", "PRAYZ", "PRAZA", "PRAZB", "PRAZC", "PRAZD", "PRAZE", "PRAZF", "PRAZG", "PRAZH", "PRAZI", "PRAZL"),
                     "POB"  => 108,
                     "EQPT" => "SDFGHIRWY",
                     "MTL"  => "E190AZU",
                     "PER"  => "C"
                 ),
                 "AT72" => array(
-                    "REG"  => array("PR-AKA", "PR-AKB", "PR-AKC", "PR-AKD", "PR-AKF", "PR-AQA", "PR-AQB", "PR-AQE", "PR-AQH", "PR-AQI", "PR-AQJ", "PR-AQK", "PR-AQL", "PR-AQM", "PR-AQN", "PR-AQO", "PR-AQP", "PR-AQQ", "PR-AQR", "PR-AQS", "PR-AQT", "PR-AQZ", "PR-ATB", "PR-ATE", "PR-ATG", "PR-ATH", "PR-ATJ", "PR-ATK", "PR-ATP", "PR-ATQ", "PR-ATR", "PR-ATU", "PR-ATV", "PR-ATW", "PR-TKI", "PR-TKJ", "PR-TKK", "PR-TKL", "PR-TKM"),
+                    "REG"  => array("PRAKA", "PRAKB", "PRAKC", "PRAKD", "PRAKF", "PRAQA", "PRAQB", "PRAQE", "PRAQH", "PRAQI", "PRAQJ", "PRAQK", "PRAQL", "PRAQM", "PRAQN", "PRAQO", "PRAQP", "PRAQQ", "PRAQR", "PRAQS", "PRAQT", "PRAQZ", "PRATB", "PRATE", "PRATG", "PRATH", "PRATJ", "PRATK", "PRATP", "PRATQ", "PRATR", "PRATU", "PRATV", "PRATW", "PRTKI", "PRTKJ", "PRTKK", "PRTKL", "PRTKM"),
                     "POB"  => 74,
                     "EQPT" => "SDFGHIRY",
                     "MTL"  => "AT76AZU",
@@ -269,7 +269,7 @@ class Actions
             "AVA" => array(
                 "OPR" => "AVIANCA",
                 "A319" => array(
-                    "REG" => array("HC-CKN", "HC-CKO", "HC-CKP", "HC-CLF", "HC-CSA", "N422AV", "N478TA", "N479TA", "N480TA", "N519AV", "N520TA", "N521TA", "N522TA", "N524TA", "N557AV", "N647AV", "N690AV", "N691AV", "N694AV", "N695AV", "N703AV", "N723AV", "N726AV", "N730AV", "N741AV", "N751AV", "N753AV"),
+                    "REG" => array("HCCKN", "HCCKO", "HCCKP", "HCCLF", "HCCSA", "N422AV", "N478TA", "N479TA", "N480TA", "N519AV", "N520TA", "N521TA", "N522TA", "N524TA", "N557AV", "N647AV", "N690AV", "N691AV", "N694AV", "N695AV", "N703AV", "N723AV", "N726AV", "N730AV", "N741AV", "N751AV", "N753AV"),
                     "POB" => 160,
                     "EQPT" => "SDE1E2E3FGHIJ4J5RWXY",
                     "MTL"  => "A319AVA",
