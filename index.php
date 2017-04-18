@@ -25,7 +25,7 @@
 
         require_once "app.class/Actions.class.php";
 
-        $actions  = new Actions("app.rpl/Cia_AVA_CS.txt");
+        $actions  = new Actions("app.rpl/Cia_AZU_CS.txt");
 
         $rows    = $actions->init();
         $flights = $actions->flights($rows);

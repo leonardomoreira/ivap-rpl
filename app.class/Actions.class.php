@@ -235,7 +235,7 @@ class Actions
             ),
 
             "AZU" => array(
-                "OPR" => "AZUL LINHAS AEREAS BRASILEIRAS S.A",
+                "OPR" => "AZUL",
                 "A320" => array(
                     "REG" => array("PR-YRA", "PR-YRB", "PR-YRC", "PR-YRD", "PR-YRE", "PR-YRF", "PR-YRH", "PR-YRI"),
                     "POB" => 195,
